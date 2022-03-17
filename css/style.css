@@ -304,7 +304,7 @@ header .container .logo a span:first-of-type {
 .menu {
   padding-top: 100px;
   overflow: hidden;
-  height: 90vh;
+  height: 100vh;
 }
 .menu h1 {
   text-align: center;
@@ -421,7 +421,7 @@ header .container .logo a span:first-of-type {
   background-color: #0009;
 }
 .menu .special div.he:hover .content {
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -65%);
   opacity: 1;
   transition: 00.5s;
 }
