@@ -464,7 +464,7 @@ header .container .logo a span:first-of-type {
 }
 @media (max-width: 767px) {
   .menu {
-    height: 250vh;
+    height: 290vh;
   }
   .menu .special div.he .content p:first-of-type {
     font-size: 20px;
