@@ -304,7 +304,7 @@ header .container .logo a span:first-of-type {
 .menu {
   padding-top: 100px;
   overflow: hidden;
-  height: 100vh;
+  height: 120vh;
 }
 .menu h1 {
   text-align: center;
